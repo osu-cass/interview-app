@@ -25,6 +25,7 @@ namespace InterviewApp
         /// <param name="message">The string to be raised as a status update to the UI</param>
         public void RaiseCallback(string message)
         {
+            // TODO: Implement the RaiseCallback method.
             throw new NotImplementedException();
         }
 
@@ -38,6 +39,7 @@ namespace InterviewApp
         /// <param name="fullFilePath">The full path to the data file in question</param>
         public IEnumerable<Color> LoadDataFile(string fullFilePath)
         {
+            // TODO: Implement the LoadDataFile method.
             throw new NotImplementedException();
         }
 
@@ -49,6 +51,7 @@ namespace InterviewApp
         {
             get
             {
+                // TODO: Implement the MatchesFound method.
                 throw new NotImplementedException();
             }
         }
@@ -60,6 +63,7 @@ namespace InterviewApp
         {
             get
             {
+                // TODO: Implement the ColorsFound method.
                 throw new NotImplementedException();
             }
         }
