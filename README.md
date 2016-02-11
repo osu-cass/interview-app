@@ -20,18 +20,18 @@ interview.
 
 ## FAQs
 
-*"I've never used C# before; what tools should I use to tackle this project?"*
+**"I've never used C# before; what tools should I use to tackle this project?"**
 
 We highly recommend that you use Visual Studio 2012 or later to work on this project. However, you may work with any 
 tool set you like as long as you are able to demonstrate your version of interview-app during your interview.
 
-*"Visual Studio is a pretty heavy-duty IDE with a lot of features to learn; can you help me get set up?"*
+**"Visual Studio is a pretty heavy-duty IDE with a lot of features to learn; can you help me get set up?"**
 
 We definitely don't mind helping to get you to get started using Visual Studio. If you're having specific installation or
 environment problems, please let us know what they are as soon as possible so we can get them resolved before your 
 interview.
 
-*"Do I have to do this project as a part of the interview?"*
+**"Do I have to do this project as a part of the interview?"**
 
 Nope! This portion is completely optional. However, we strongly recommend that you at least attempt it because it is 
 an excellent opportunity to set yourself apart from other candidates.
