@@ -11,12 +11,27 @@ acquiring your own copy of the project.
 
 ## How to use this application during the code editing process:
 interview-app emulates an unfinished data analyzer tool. The finished version of the program will read a .csv file 
-with data in it and performs some logic on that data. To learn more about how interview-app should function, read
-the source code carefully, paying close attention to the `TODO:` comments   and `<summary>` blocks.
+and perform some logic on the data inside (see "data.csv" at the root of the project). To learn more about how 
+interview-app should function, read the source code carefully, paying close attention to the `TODO:` comments and 
+`<summary>` blocks.
 
 Please complete the application to the best of your abilities and be prepared to show us your work during your 
 interview.
 
-**Note:** We highly recommend that you use Visual Studio 2012 or later to work with this project as it is a C# project. 
-However, you may work with any tool set you like as long as you are able to demonstrate your version of 
-interview-app during your interview.
+## FAQs
+
+*"I've never used C# before; what tools should I use to tackle this project?"*
+
+We highly recommend that you use Visual Studio 2012 or later to work on this project. However, you may work with any 
+tool set you like as long as you are able to demonstrate your version of interview-app during your interview.
+
+*"Visual Studio is a pretty heavy-duty IDE with a lot of features to learn; can you help me get set up?"*
+
+We definitely don't mind helping to get you to get started using Visual Studio. If you're having specific installation or
+environment problems, please let us know what they are as soon as possible so we can get them resolved before your 
+interview.
+
+*"Do I have to do this project as a part of the interview?"*
+
+Nope! This portion is completely optional. However, we strongly recommend that you at least attempt it because it is 
+an excellent opportunity to set yourself apart from other candidates.
